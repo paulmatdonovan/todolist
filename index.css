@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: whitesmoke;
+}
+
+.delete-btn {
+    margin: 10px;
+}
+
+p {
+    margin-right: 10px;
+}
+
+h3 h4 {
+    color: darkslategray;
+}
+
+img {
+    width: 300px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #c86363;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.todo_container>p {
+
+    text-align: left;
+
+}
+
+.todos {
+    text-align: center;
+}
+
+.todos h3 {
+    margin-top: 0;
+    color: seashell;
+}
+
+.todo_container {
+    margin-top: 20px;
+}
+
+.todo_container p {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.field {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.new_todo {
+    padding: 10px;
+    margin: 15px;
+    width: 70%;
+    border: 1px solid #443131;
+    border-radius: 5px;
+}
+
+.button {
+    padding: 10px 20px;
+    margin: 15px 10px 0 15px;
+    background-color: #407ab8;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin: 15px 10px 0 15px;
+    background-color: #214c78;
+    color: cornsilk;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
